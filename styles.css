@@ -1,0 +1,70 @@
+
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+    background-color: #f4f4f9;
+    color: #333;
+}
+
+header, footer {
+    background: #222;
+    color: #fff;
+    text-align: center;
+    padding: 1rem 0;
+}
+
+h1, h2 {
+    font-family: 'Playfair Display', serif;
+    color: #333;
+}
+
+section {
+    margin: 1.5rem auto;
+    max-width: 800px;
+    background: #fff;
+    padding: 1rem;
+    border: 1px solid #ddd;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+p {
+    margin: 1rem 0;
+}
+
+iframe {
+    display: block;
+    max-width: 100%;
+    margin: 1rem 0;
+}
+header h1 {
+    color: white;
+    font-family: 'Parkinsans';
+}
+section h2 {
+    text-decoration: underline;
+    font-family: 'Passion One';
+}
+footer {
+    background: #222;
+    color: #fff;
+    text-align: center;
+    padding: 1.5rem 0;
+    font-size: 0.9rem;
+}
+
+footer .font-sources {
+    margin-top: 0.5rem;
+}
+
+footer a {
+    text-decoration: none;
+    font-weight: bold;
+    margin: 0 5px;
+    color: #00c1d4;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
